@@ -1,0 +1,8 @@
+{
+  "name": "ApexPilot AI - Game Autopilot & Vision Copilot",
+  "description": "Universal cross-platform AI game autopilot and vision copilot for Roblox and modern games with real-time screen capture, pro reflex automation, and interactive gaming benchmark arenas.",
+  "requestFramePermissions": [
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
